@@ -1,5 +1,5 @@
 # Vehicle-Container Api
-Bu projede araç ve toplaması gereken containerlar
+Bu projede vehicle-container ilişkisi kurulmuş veritabanında vehicleId kolonu ile birleşmesi sağlanmıştır. Vehicle ve container ekleme, silme, güncelleme methodları ve vehicleId'ye göre containerları listeleme methodu bulunmaktadır.
 
 ## Installation
 Öncelikle projeyi kolonlayın.
