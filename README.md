@@ -1,11 +1,11 @@
 # Vehicle-Container Api
-
+Bu projede araç ve toplaması gereken containerlar
 
 ## Installation
 Öncelikle projeyi kolonlayın.
 
 ```
-git clone https://github.com/195-Patika-Dev-Paycore-Net-Bootcamp/assignment-3-sinemyoruc.git
+git clone hhttps://github.com/sinemyoruc/PayCoreBootcamp-HW3.git
 ```
 
 ## Usage
