@@ -2,7 +2,7 @@
 Bu projede vehicle-container ilişkisi kurulmuş veritabanında vehicleId kolonu ile birleşmesi sağlanmıştır. Vehicle ve container ekleme, silme, güncelleme methodları ve vehicleId'ye göre containerları listeleme methodu bulunmaktadır.
 
 ## Installation
-Öncelikle projeyi klonlayın.
+Öncelikle projeyi klonlayın. 
 
 ```
 git clone hhttps://github.com/sinemyoruc/PayCoreBootcamp-HW3.git
